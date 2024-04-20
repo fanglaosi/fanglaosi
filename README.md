@@ -26,5 +26,4 @@ Here are some ideas to get you started:
   - **Zhongbin Fang**, Xia Li, Xiangtai Li, Shen Zhao📧, Mengyuan Liu📧. ModelNet-O: A Large-Scale Synthetic Dataset for Occlusion-Aware Point Cloud Classification. arXiv, 2023. [![Static Badge](https://img.shields.io/badge/Paper-PDF-yellow)](https://arxiv.org/pdf/2401.08210.pdf)
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=fanglaosi&include_all_commits=true&count_private-true&custom_title=fanglaosi'%20GitHub%20Stats&line_height=30&show_icons=true&hide_border=true&bg_color=192133&title_color=efb752&icon_color=efb752&text_color=70bed9">
-
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fanglaosi&layout=compact&bg_color=192133&title_color=efb752&icon_color=efb752&text_color=70bed9">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fanglaosi&layout=compact&line_height=30&show_icons=true&hide_border=true&bg_color=192133&title_color=efb752&icon_color=efb752&text_color=70bed9">
