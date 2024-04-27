@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 图标网页: https://shields.io/badges/static-badge
 -->
 
-- 🌱 I’m currently studying at **Sun Yat-sen University**.
+- 🌱 I’m currently studying at **[Sun Yat-sen University](https://www.sysu.edu.cn/)**.
 - 😄 My research focuses on **Deep Learning**, **3D Point Cloud Analysis**, and **In-Context Learning**.
 - 📫 My Email: fanglaosi1107@gmail.com
 - 🤔 My personal homepage: [fanglaosi](https://fanglaosi.github.io/)
