@@ -16,15 +16,15 @@ Here are some ideas to get you started:
 图标网页: https://shields.io/badges/static-badge
 -->
 
-- 🌱 I’m currently studying at **[Sun Yat-sen University](https://www.sysu.edu.cn/)**.
+- 🌱 I’m currently working at **Tencent**.
 - 😄 My research focuses on **Deep Learning**, **3D Point Cloud Analysis**, **In-Context Learning**, and **Video Generation**.
 - 📫 My Email: fanglaosi1107@gmail.com
 - 🤔 My personal homepage: [fanglaosi](https://fanglaosi.github.io/)
-- 🔭 My experience: Tencent AI Lab (intern)
 - 📕 My paper list:
 
+&emsp; -  ..., **[Zhongbin Fang](https://fanglaosi.github.io/)**, ..., (listed in alphabetical order). Yan: Foundational Interactive Video Generation. arXiv, 2025. [![Static Badge](https://img.shields.io/badge/Paper-PDF-yellow)]([https://arxiv.org/pdf/2508.08601.pdf]) 
 
-&emsp; -  Mingyu Yang, Junyou Li, **[Zhongbin Fang](https://fanglaosi.github.io/)**, Sheng Chen, Yangbin Yu, Qiang Fu, Wei Yang, Deheng Ye. Playable Game Generation. arXiv, 2024. [![Static Badge](https://img.shields.io/badge/Paper-PDF-orange)]([https://arxiv.org/pdf/2404.12352.pdf](https://arxiv.org/pdf/2412.00887)) 
+&emsp; -  Mingyu Yang, Junyou Li, **[Zhongbin Fang](https://fanglaosi.github.io/)**, Sheng Chen, Yangbin Yu, Qiang Fu, Wei Yang, Deheng Ye. Playable Game Generation. arXiv, 2024. [![Static Badge](https://img.shields.io/badge/Paper-PDF-orange)]([https://arxiv.org/pdf/2412.00887.pdf]) 
 
 &emsp; -  Mengyuan Liu, **[Zhongbin Fang](https://fanglaosi.github.io/)📧**, Xia Li📧, Joachim M Buhmann, Xiangtai Li, Chen Change Loy. Point-In-Context: Understanding Point Cloud via In-Context Learning. arXiv, 2024. [![Static Badge](https://img.shields.io/badge/Paper-PDF-blue)](https://arxiv.org/pdf/2404.12352.pdf) 
 
