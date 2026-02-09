@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - 🤔 My personal homepage: [fanglaosi](https://fanglaosi.github.io/)
 - 📕 My paper list:
 
-&emsp; -  Xinshun Wang∗, Peiming Li∗, Ziyi Wang∗, **[Zhongbin Fang](https://fanglaosi.github.io/), Zhichao Deng, Songtao Wu, Jason Li, Mengyuan Liu📧. Superman: Unifying Skeleton and Vision for Human Motion Perception and Generation. arXiv, 2026. [![Static Badge](https://img.shields.io/badge/Paper-PDF-yellow)](https://arxiv.org/pdf/2602.02401.pdf) 
+&emsp; -  Xinshun Wang∗, Peiming Li∗, Ziyi Wang∗, **[Zhongbin Fang](https://fanglaosi.github.io/)**, Zhichao Deng, Songtao Wu, Jason Li, Mengyuan Liu📧. Superman: Unifying Skeleton and Vision for Human Motion Perception and Generation. arXiv, 2026. [![Static Badge](https://img.shields.io/badge/Paper-PDF-yellow)](https://arxiv.org/pdf/2602.02401.pdf) 
 
 &emsp; -  ..., **[Zhongbin Fang](https://fanglaosi.github.io/)**, ..., (listed in alphabetical order). Yan: Foundational Interactive Video Generation. arXiv, 2025. [![Static Badge](https://img.shields.io/badge/Paper-PDF-yellow)](https://arxiv.org/pdf/2508.08601.pdf) 
 
