@@ -22,9 +22,9 @@ Here are some ideas to get you started:
 - 🤔 My personal homepage: [fanglaosi](https://fanglaosi.github.io/)
 - 📕 My paper list:
 
-&emsp; -  Mengyuan Liu, **[Zhongbin Fang](https://fanglaosi.github.io/)📧**, Xia Li📧, Joachim M Buhmann, Deheng Ye, Xiangtai Li, Chen Change Loy. Point-In-Context: Understanding Point Cloud via In-Context Learning. IJCV, 2026. [![Static Badge](https://img.shields.io/badge/Paper-PDF-blue)](https://arxiv.org/pdf/2404.12352.pdf)  🎉🎉🎉
+&emsp; -  Mengyuan Liu, **[Zhongbin Fang](https://fanglaosi.github.io/)📧**, Xia Li📧, Joachim M Buhmann, Deheng Ye, Xiangtai Li, Chen Change Loy. Point-In-Context: Understanding Point Cloud via In-Context Learning. **IJCV**, 2026. [![Static Badge](https://img.shields.io/badge/Paper-PDF-blue)](https://arxiv.org/pdf/2404.12352.pdf)  🎉🎉🎉
 
-&emsp; -  Xinshun Wang∗, Peiming Li∗, Ziyi Wang∗, **[Zhongbin Fang](https://fanglaosi.github.io/)**, Zhichao Deng, Songtao Wu, Jason Li, Mengyuan Liu📧. Superman: Unifying Skeleton and Vision for Human Motion Perception and Generation. CVPR, 2026. [![Static Badge](https://img.shields.io/badge/Paper-PDF-yellow)](https://arxiv.org/pdf/2602.02401.pdf)  🎉🎉🎉
+&emsp; -  Xinshun Wang∗, Peiming Li∗, Ziyi Wang∗, **[Zhongbin Fang](https://fanglaosi.github.io/)**, Zhichao Deng, Songtao Wu, Jason Li, Mengyuan Liu📧. Superman: Unifying Skeleton and Vision for Human Motion Perception and Generation. **In CVPR**, 2026. [![Static Badge](https://img.shields.io/badge/Paper-PDF-yellow)](https://arxiv.org/pdf/2602.02401.pdf)  🎉🎉🎉
 
 &emsp; -  ..., **[Zhongbin Fang](https://fanglaosi.github.io/)**, ..., (listed in alphabetical order). Yan: Foundational Interactive Video Generation. arXiv, 2025. [![Static Badge](https://img.shields.io/badge/Paper-PDF-yellow)](https://arxiv.org/pdf/2508.08601.pdf) 
 
